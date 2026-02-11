@@ -1,0 +1,307 @@
+@media (min-width:767px){
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        
+
+    }
+    body{
+        background-color: black;
+        border: 10px solid rgb(67, 6, 124);
+        color: white;
+        
+    }
+    .pro-pic{
+        background-color: ;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .profile-pic{
+        background-color: aliceblue;
+        height: 300px;
+        width: 300px;
+        border-radius: 100%;
+        border: 5px solid rgb(136, 189, 136);
+        overflow: hidden;
+        
+    }
+
+    .salas{
+        font-style: oblique;
+        font-weight: 600;
+        color: white;
+    }
+    .About-me-para{
+        
+        width: 100%;
+        height: 100%;
+       font-size: 18px;
+       line-height: 1.2;
+       text-align: left;
+       padding-left: 96px;
+       margin-top: 10px;
+    }
+    section{
+        
+        width: 1300px;
+        margin-left: 15px;
+        
+    }
+    h2{
+        margin-top: 10px;
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(136, 189, 136);
+
+    }
+    .Hello{
+        font-size: xx-large;
+        padding-left: 20px;
+        height: 100px;
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        color: white;
+
+    }
+    .Project-Para{
+        font-size: 18px;
+        font-style: italic;
+        padding: 50px;
+        color: white;
+         display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        padding-left: 96px;
+    }
+    .img{
+       
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+       
+    
+    }
+    h1{
+        height: 60px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+  .edu-para{
+    font-size: larger;
+    font-weight: 600;
+    padding-left: 50px;
+    margin-top: 10px;
+  }
+  .Form-div1{
+    
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Form-div2{
+    background-color: black;
+    height: 399px;
+    width: 600px;
+    border-radius: 20px ;
+    border: 2px solid rgb(67, 6, 124);
+
+
+  }
+  .fotter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    color: white;
+    font-size: xx-large;
+    
+   
+  }
+  .inp-1{
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+  textarea{
+    height: 140px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+
+  .submit{
+     height: 35px;
+    width: 150px;
+    border-radius: 20px;
+    margin-left: 220px;
+    margin-top: 20px;
+    padding-left: 5px;
+    background-color: rgb(67, 6, 124);
+    color: white;
+  }
+}
+@media (max-width:768px){
+      *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: sans-serif;
+
+    }
+    body{
+        background-color: black;
+        border:3px solid green ;
+        color: white;
+        
+
+    }
+    .pro-pic{
+        background-color: ;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .profile-pic{
+        background-color: aliceblue;
+        height: 300px;
+        width: 300px;
+        border-radius: 100%;
+        border: 5px solid rgb(136, 189, 136);
+        overflow: hidden;
+        
+    }
+
+    .salas{
+        font-style: oblique;
+        font-weight: 600;
+    }
+    .About-me-para{
+       font-size: 18px;
+       line-height: 1.2;
+       text-align: left;
+       padding-left: 10px;
+    }
+    h2{
+        margin-top: 10px;
+        font-family: sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: rgb(136, 189, 136);
+
+    }
+    .Hello{
+        font-size: xx-large;
+        padding-left: 20px;
+        height: 100px;
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+
+    }
+    .Project-Para{
+        font-size: 18px;
+        font-style: italic;
+        padding-left: 10px;
+    }
+    .img{
+       
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+       
+    
+    }
+    h1{
+        height: 60px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+  .edu-para{
+    font-size: larger;
+    font-weight: 600;
+    padding-left: 10px;
+  }
+    .Form-div1{
+    
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Form-div2{
+    background-color: black;
+    height: 399px;
+    width: 300px;
+    border-radius: 20px ;
+    border: 2px solid rgb(67, 6, 124);
+
+
+  }
+  .fotter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    color: white;
+    font-size: xx-large;
+    
+   
+  }
+  .inp-1{
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+  textarea{
+    height: 140px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+
+  .submit{
+     height: 35px;
+    width: 150px;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-left: 5px;
+    background-color: rgb(67, 6, 124);
+    color: white;
+  }
+ 
+
+}
