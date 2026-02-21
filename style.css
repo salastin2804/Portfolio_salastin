@@ -44,6 +44,16 @@
        padding-left: 96px;
        margin-top: 10px;
     }
+     .About-me-para1{
+        
+        width: 100%;
+        height: 100%;
+       font-size: 18px;
+       line-height: 1.2;
+       text-align: left;
+       padding-left: 256px;
+       margin-top: 10px;
+    }
     section{
         
         width: 1300px;
